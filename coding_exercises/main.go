@@ -68,7 +68,7 @@ func secondsInYear() {
 	)
 
 	//3. Use fmt.Printf() to print out the total number of seconds in a year.
-	fmt.Printf("Seconds in a year\n", secPerDay*daysYear)
+	fmt.Println("Seconds in a year\n", secPerDay*daysYear)
 }
 
 func error() {
